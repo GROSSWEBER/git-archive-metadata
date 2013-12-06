@@ -1,1 +1,2 @@
-*.txt export-subst
+.gitattributes export-ignore
+*.txt          export-subst
